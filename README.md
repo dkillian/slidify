@@ -1,2 +1,1 @@
-# slidify
-to host slidify presentations
+This is where I keep my slidify presentations. I'm just learning this now so for a long time this place will just be a hodgepodge of random stuff. Maybe someday I can have an actual repository of cool stuff. 
